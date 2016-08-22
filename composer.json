@@ -1,0 +1,12 @@
+{
+    "name": "yuripertamax/zenity-example",
+    "authors": [
+        {
+            "name": "Yuri Pratama",
+            "email": "hello@yuripertamax.me"
+        }
+    ],
+    "require": {
+        "clue/zenity-react": "^0.4.0"
+    }
+}
